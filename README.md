@@ -5,7 +5,11 @@ Simple web admin bruteforce
 You can add your own wordlist.txt file
 
 # Web-Brute
- #INSTALLATION
+
+~installation
+
+
+
 -sudo apt install git
 
 -git clone https://github.com/Knownasjohnn/Web-Brute
